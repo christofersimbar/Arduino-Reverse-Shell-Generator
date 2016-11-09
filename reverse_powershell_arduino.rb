@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 # Thanks to @mattifestation exploit-monday.com and Dave Kennedy.
-# Written by James Cook @b00stfr3ak44
+# Adapted from Powershell-Reverse-Rubber-Ducky Written by James Cook @b00stfr3ak44
+# https://github.com/b00stfr3ak/Powershell-Reverse-Rubber-Ducky
 require 'base64'
 require 'readline'
 def print_error(text)
